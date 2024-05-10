@@ -1,4 +1,4 @@
-# Employee Management System 👩‍💻
+# Full-Stack Employee Management System 👩‍💻
 A small project created using Spring Boot and React.js 💙
 
 ## Technology Stack
@@ -22,7 +22,7 @@ Build Frontend React App.
 
 ### Spring Boot React Full-Stack Architecture
 For creating this Full-Stack application, we created a separate project for the frontend created with React and another project for the backend created with Spring Boot, so they are independent of each other.
-![System architecture diagram](https://i.imgur.com/Cg21T9o.png)
+![System architecture diagram](https://i.imgur.com/ol8zvUP.png)
 
 
 ### Some roles:
